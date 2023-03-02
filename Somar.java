@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class somar
+public class Somar
 {
     public static void main(String[] args) 
     {
